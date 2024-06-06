@@ -37,5 +37,5 @@ With a background encompassing internal company applications and mobile developm
 
 ## 📞 Contact Me
 - **LinkedIn:** [Ivo Kostovski](https://www.linkedin.com/in/ivokostovski/)
-- **Email:** ivo.kostovski@gmail.com
+- **Email:** ivo@kostovski.dev
 
