@@ -36,6 +36,7 @@ I bring a wealth of experience from teaching web development at the Seavus Educa
 With a background encompassing internal company applications and mobile development, I take pride in delivering nearly bug-free features that not only meet project requirements but also exceed expectations. My commitment to excellence is reflected in my successful track record and the positive impact I bring to each project.
 
 ## 📞 Contact Me
+- **Portfolio:** [Portfolio](https://kostovski.dev)
 - **LinkedIn:** [Ivo Kostovski](https://www.linkedin.com/in/ivokostovski/)
 - **Email:** ivo@kostovski.dev
 
