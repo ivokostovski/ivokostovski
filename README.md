@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ivo!
 
 ## 🌐 About Me
-I am a seasoned **Full-stack JavaScript Developer** based in Skopje, North Macedonia, boasting a rich background of over 5 years in the field. My expertise spans both front-end and back-end technologies, showcasing a comprehensive skill set that ensures the successful execution of diverse projects.
+I am a seasoned **Full-stack JavaScript Developer** based in Skopje, North Macedonia, boasting a rich background of over 6 years in the field. My expertise spans both front-end and back-end technologies, showcasing a comprehensive skill set that ensures the successful execution of diverse projects.
 
 ## 💻 Technical Proficiency
 I excel in utilizing cutting-edge technologies, including but not limited to:
