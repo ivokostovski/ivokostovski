@@ -16,15 +16,15 @@ I excel in utilizing cutting-edge technologies, including but not limited to:
 - **Other:** Redux, NGRX, TypeORM, Express
 
 ## 🏆 Experience Highlights
-- **React (4 years):** Proficient in both JavaScript and TypeScript, specializing in web and mobile applications using Ionic. Extensive experience with Redux.
-- **Node.js (4 years):** Adept at working with Express, Sequelize, and TypeORM for robust back-end solutions.
-- **NestJS (3 years):** Experienced in utilizing TypeORM and Mongoose for efficient and scalable applications.
-- **NextJS (2 years):** Experienced in utilizing SSR for efficient and scalable applications.
-- **Database (5 years):** Expertise in both SQL (Postgres, MariaDB) and NoSQL (MongoDB) databases.
-- **Testing (5 years):** Extensive experience with Jest across various frameworks.
-- **Angular (4 years):** Competent in both Angular.js and Angular 2+, with proficiency in state management using NGRX.
+- **React (5 years):** Proficient in both JavaScript and TypeScript, specializing in web and mobile applications using Ionic. Extensive experience with Redux.
+- **Node.js (5 years):** Adept at working with Express, Sequelize, and TypeORM for robust back-end solutions.
+- **NestJS (4 years):** Experienced in utilizing TypeORM and Mongoose for efficient and scalable applications.
+- **NextJS (3 years):** Experienced in utilizing SSR for efficient and scalable applications.
+- **Database (6 years):** Expertise in both SQL (Postgres, MariaDB) and NoSQL (MongoDB) databases.
+- **Testing (6 years):** Extensive experience with Jest across various frameworks.
+- **Angular (5 years):** Competent in both Angular.js and Angular 2+, with proficiency in state management using NGRX.
 - **Vue (2 years):** Skilled in TypeScript, mobile app development using Cordova, and web app development for video conferences using Jitsi.
-- **HTML & CSS (5+ years):** Well-versed in SCSS, LESS, Bootstrap, Tailwind, Angular/React Material, and Framework7.
+- **HTML & CSS (6+ years):** Well-versed in SCSS, LESS, Bootstrap, Tailwind, Angular/React Material, and Framework7.
 
 ## 📚 Coding Philosophy
 Driven by a passion for delivering high-quality, clean, and reusable code, I am committed to achieving over 80% test coverage in all my projects. My approach is agile, and I thrive as a flexible team player with exceptional problem-solving skills and effective communication in English.
