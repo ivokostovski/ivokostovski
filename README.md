@@ -7,13 +7,13 @@ I am a seasoned **Full-stack JavaScript Developer** based in Skopje, North Maced
 I excel in utilizing cutting-edge technologies, including but not limited to:
 
 - **Front-end:** React, Angular, Vue
-- **Back-end:** Node.js, NestJS
-- **SSR:** NextJS
-- **Cloud & DevOps:** AWS (SNS, SES, Open Search, Cloud Search, Elastic Search), GCP, GitHub Actions, Vercel
-- **Databases:** SQL (Postgres, MariaDB, MySQL, MSSQL), NoSQL (MongoDB, Document DB), QLDB
-- **Testing:** Jest (for all frameworks)
-- **CSS Libraries:** SCSS, LESS, Bootstrap, Tailwind
-- **Other:** Redux, NGRX, TypeORM, Express
+- **Back-end:** Node, Express, Nest, 
+- **SSR:** Next
+- **Cloud & DevOps:** AWS (SNS, SES, Cloud Search, Elastic Search), GCP, GitHub Actions, Vercel
+- **Databases:** SQL (Postgres, MariaDB, MySQL, MSSQL), NoSQL (MongoDB, Document DB), QLDB, CouchDB, SpiceDB, Type ORM, Drizzle ORM
+- **Testing:** Jest, Jasmine, Karma
+- **Styling:** Tailwind, SCSS, LESS, Bootstrap
+- **Other:** RXJS, Redux, NGRX
 
 ## 🏆 Experience Highlights
 - **React:** Proficient in both JavaScript and TypeScript, specializing in web and mobile applications using Ionic. Extensive experience with Redux.
@@ -38,5 +38,5 @@ With a background encompassing internal company applications and mobile developm
 ## 📞 Contact Me
 - **Portfolio:** [kostovski.dev](https://kostovski.dev)
 - **LinkedIn:** [Ivo Kostovski](https://www.linkedin.com/in/ivokostovski/)
-- **Email:** ivo@kostovski.dev
+- **Email:** [ivo@kostovski.dev](mailto:ivo@kostovski.dev)
 
